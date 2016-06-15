@@ -1,0 +1,14 @@
+﻿  HW-5 _ EX05_03.cpp
+c:\users\aaron c meyers\desktop\cs172_lectures and homework\homework\hw-5\hw-5 _ ex05_03\hw-5 _ ex05_03\vector.h(63): error C2440: '=': cannot convert from 'int' to 'int *'
+  c:\users\aaron c meyers\desktop\cs172_lectures and homework\homework\hw-5\hw-5 _ ex05_03\hw-5 _ ex05_03\vector.h(63): note: Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+  c:\users\aaron c meyers\desktop\cs172_lectures and homework\homework\hw-5\hw-5 _ ex05_03\hw-5 _ ex05_03\vector.h(61): note: while compiling class template member function 'void MakeVectors<int>::push_back(T)'
+          with
+          [
+              T=int
+          ]
+  c:\users\aaron c meyers\desktop\cs172_lectures and homework\homework\hw-5\hw-5 _ ex05_03\hw-5 _ ex05_03\hw-5 _ ex05_03.cpp(35): note: see reference to function template instantiation 'void MakeVectors<int>::push_back(T)' being compiled
+          with
+          [
+              T=int
+          ]
+  c:\users\aaron c meyers\desktop\cs172_lectures and homework\homework\hw-5\hw-5 _ ex05_03\hw-5 _ ex05_03\hw-5 _ ex05_03.cpp(14): note: see reference to class template instantiation 'MakeVectors<int>' being compiled

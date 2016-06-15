@@ -1,0 +1,12 @@
+﻿  HW-5 _ EX05_04.cpp
+c:\users\aaron c meyers\desktop\cs172_lectures and homework\homework\hw-5\hw-5 _ ex05_04\hw-5 _ ex05_04\hw-5 _ ex05_04.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aaron c meyers\desktop\cs172_lectures and homework\homework\hw-5\hw-5 _ ex05_04\hw-5 _ ex05_04\hw-5 _ ex05_04.cpp(52): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aaron c meyers\desktop\cs172_lectures and homework\homework\hw-5\hw-5 _ ex05_04\hw-5 _ ex05_04\hw-5 _ ex05_04.cpp(34): note: see reference to function template instantiation 'void shuffle<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+c:\users\aaron c meyers\desktop\cs172_lectures and homework\homework\hw-5\hw-5 _ ex05_04\hw-5 _ ex05_04\hw-5 _ ex05_04.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron c meyers\desktop\cs172_lectures and homework\homework\hw-5\hw-5 _ ex05_04\hw-5 _ ex05_04\hw-5 _ ex05_04.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron c meyers\desktop\cs172_lectures and homework\homework\hw-5\hw-5 _ ex05_04\hw-5 _ ex05_04\hw-5 _ ex05_04.cpp(96): warning C4018: '<': signed/unsigned mismatch
+  HW-5 _ EX05_04.vcxproj -> C:\Users\Aaron C Meyers\Desktop\CS172_Lectures and Homework\Homework\HW-5\HW-5 _ EX05_04\Debug\HW-5 _ EX05_04.exe
